@@ -35,9 +35,9 @@
   (pad "8" thru_hole circle (at 8.89 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 4d210671-0d14-4f31-8d1e-9d281cfa9d2c))
   (pad "9" thru_hole circle (at 8.89 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp cdc999d8-4bbf-42fd-ab97-67d59d5d6727))
   (pad "10" thru_hole circle (at 8.89 -5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp d41b4bae-80e4-43cb-9157-44d880180759))
-  (model "/home/alex/git/newam.pretty/3d/poe-addon.step"
-    (offset (xyz 114.35 100.35 2.44))
-    (scale (xyz 1 1 1))
+  (model "/home/alex/git/newam.pretty/3d/poe-addon.wrl"
+    (offset (xyz -8.89 5.08 3.3))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 90))
   )
 )
